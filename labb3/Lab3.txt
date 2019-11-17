@@ -1,0 +1,6 @@
+Lab 3:
+
+Varför skrivs inte telefonnumret ut när man lägger till en PersonMedTel i registret?
+
+Telefonnumret sliceas bort när man lägger in ett objekt av PersonMedTel då barnklassen innehåller mer data än den ärvda klassen som
+personregistrets pekare består av.

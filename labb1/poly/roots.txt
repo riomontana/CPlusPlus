@@ -1,0 +1,55 @@
+Root-finding started...
+
+Test Uppgift 8: 
+Result of equation where x = 2 is: 25
+Polynom has no roots
+
+Result of equation where x = 0.5 is: 4.7
+Polynom has no roots
+
+Result of equation where x = 1 is: 2.3
+Polynom root1 = -1.23241, and root2 = -2.43426
+
+Result of equation where x = 1.5 is: 4.575
+Polynom has no roots
+
+Result of equation where x = 0.25 is: 0.191875
+Polynom root1 = -0.518213, and root2 = -1.41512
+
+Test Uppgift 9: 
+
+Polynom has no roots
+
+Polynom has no roots
+
+Polynom root1 = -1.23241, and root2 = -2.43426
+Root1 eval = 0 and root2 eval = 0
+
+Polynom has no roots
+
+Polynom root1 = -0.518213, and root2 = -1.41512
+Root1 eval = 0 and root2 eval = 1.49012e-08
+
+Test Uppgift 10: 
+
+Input 3 numbers in sequence
+
+Polynom root = -1
+Root eval = 0
+
+Input 3 numbers in sequence
+
+Polynom root1 = 1, and root2 = -0.5
+Root1 eval = 0 and root2 eval = 0
+
+Input 3 numbers in sequence
+
+Polynom has no roots
+
+Input 3 numbers in sequence
+
+Polynom root1 = 0.732051, and root2 = -2.73205
+Root1 eval = -1.19209e-07 and root2 eval = 4.76837e-07
+
+Input 3 numbers in sequence
+

@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Laboration6.cpp
+  MathInterpreter.cpp
+e:\skola\c++\laborationer\labb6\laboration6\laboration6\mathinterpreter.cpp(174): warning C4101: 'ex': unreferenced local variable
+e:\skola\c++\laborationer\labb6\laboration6\laboration6\mathinterpreter.cpp(362): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  LINK : E:\Skola\c++\laborationer\labb6\Laboration6\Debug\Laboration6.exe not found or not built by the last incremental link; performing full link
+  Laboration6.vcxproj -> E:\Skola\c++\laborationer\labb6\Laboration6\Debug\Laboration6.exe

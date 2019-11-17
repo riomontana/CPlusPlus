@@ -1,0 +1,58 @@
+Uppgift 1
+
+//komma in på rätt disk
+E:
+
+//komma in i rätt mapp
+cd E:\Skola\c++\laborationer\labb1\hello 
+
+//kompilera cpp fil
+cl /EHsc hello.cpp
+
+//exekvera program
+hello Linus
+
+Uppgift 2
+
+//kompilering med separat länkning
+cl /EHsc /c hello.cpp
+link /out:hello.exe hello.obj
+
+Uppgift 4
+
+//ändra directory
+cd E:\Skola\c++\laborationer\labb1\sum
+
+//exekvera program
+sum
+
+Uppgift 5
+
+//output redirect till fil
+sum > sum.txt
+
+Uppgift 6
+
+//output redirect från fil
+sum < terms.txt
+
+Uppgift 7
+
+//input/output redirect
+(sum < terms.txt) > sum.txt
+
+Uppgift 8, 9 och 10
+
+//ändra directory 
+cd E:\Skola\c++\laborationer\labb1\poly
+
+//kompilera flera filer
+cl /EHsc polysolver.cpp poly2.cpp
+
+//exekvera
+polysolver
+
+Uppgift 11
+
+//redirect från fil till fil
+(polysolver < coeffs.txt) > roots.txt

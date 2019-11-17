@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Laboration2.cpp
+  Uppgift1.cpp
+  Uppgift2.cpp
+  Uppgift3.cpp
+e:\skola\c++\laborationer\labb2\laboration2\labb2\uppgift3.cpp(15): warning C4018: '<': signed/unsigned mismatch
+e:\skola\c++\laborationer\labb2\laboration2\labb2\uppgift3.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : E:\Skola\c++\laborationer\labb2\Laboration2\Debug\Labb2.exe not found or not built by the last incremental link; performing full link
+  Labb2.vcxproj -> E:\Skola\c++\laborationer\labb2\Laboration2\Debug\Labb2.exe

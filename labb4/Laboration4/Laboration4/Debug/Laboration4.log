@@ -1,0 +1,8 @@
+﻿  Uppgift2.cpp
+e:\skola\c++\laborationer\labb4\laboration4\laboration4\personreg\personmedtel.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\skola\c++\laborationer\labb4\laboration4\laboration4\uppgift2.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\skola\c++\laborationer\labb4\laboration4\laboration4\uppgift2.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Uppgift3.cpp
+e:\skola\c++\laborationer\labb4\laboration4\laboration4\uppgift3.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Laboration4.vcxproj -> E:\Skola\c++\laborationer\labb4\Laboration4\Debug\Laboration4.exe
